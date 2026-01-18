@@ -59,13 +59,6 @@ I am a software developer with a strong focus on Flutter, Go (Gin), and React.js
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=devrungta&hide_border=true" 
-    height="170" 
-  />
-</p>
-
 ---
 
 ## 🎓 Education
