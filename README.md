@@ -9,7 +9,7 @@ Flutter • Android (Java/Kotlin) • Go • React
 
 ## 👨‍💻 About Me
 
-Results-driven developer with experience building smooth mobile interfaces and reliable backend APIs. Strong foundation in **state management, concurrency, and clean architecture**, with hands-on exposure to end-to-end product development. Actively involved in technical clubs, hackathons, and large-scale student initiatives.
+I am a software developer with a strong focus on Flutter, Go (Gin), and React.js, building clean user interfaces and scalable backend systems. I enjoy working on end-to-end products, from designing responsive frontends to implementing efficient APIs and authentication services. I’m particularly interested in system design, backend architecture, and writing maintainable, well-structured code.
 
 ---
 
