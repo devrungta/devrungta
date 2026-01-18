@@ -66,31 +66,6 @@ Results-driven developer with experience building smooth mobile interfaces and r
   />
 </p>
 
-
-## 🚀 Projects
-
-### 🔐 SecureKey  
-*Personal Android Project* | *Apr 2024*
-- Password manager built in **Java**
-- Firebase REST APIs for OTP authentication
-- PIN-based relaunch protection
-- Material Design + ConstraintLayout UI  
-🔗 https://github.com/devrungta/SecureKey
-
-### 📲 Digital Entry System  
-*Oct 2024 – Nov 2024*
-- Led **91%+ frontend implementation**
-- Flutter-based QR check-in system
-- Go backend with REST APIs and Google OAuth  
-🔗 https://github.com/devrungta/Digital-Entry-System
-
-### 📊 Attendance Tracker  
-**Club of Programmers, IIT Varanasi**
-- Flutter app with real-time sync via Firebase Realtime DB
-- Secure session management using Firebase Auth
-- Reactive UI with StreamBuilder & ListView  
-🔗 https://github.com/devrungta/csoc_flutter
-
 ---
 
 ## 🎓 Education
