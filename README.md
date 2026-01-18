@@ -1,7 +1,7 @@
 # Hi, I'm Dev Rungta 👋  
 
 **Mobile App & Web Developer**  
-Sophomore, **IIT (BHU) Varanasi**  
+**IIT (BHU) Varanasi**  
 
 Flutter • Android (Java/Kotlin) • Go • React  
 
