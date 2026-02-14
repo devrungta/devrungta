@@ -48,16 +48,12 @@ I am a software developer with a strong focus on Flutter, Go (Gin), and React.js
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=devrungta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrungta&layout=compact&langs_count=8&hide_border=true" 
-    height="165" 
-  />
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devrungta&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devrungta&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrungta&theme=aura_dark)
 
 ---
 
