@@ -3,7 +3,7 @@
 **Mobile App & Web Developer**  
 **IIT (BHU) Varanasi**  
 
-Flutter • Android (Java/Kotlin) • Go • React  
+Flutter • Android (Java/Kotlin) • Go • React.js  
 
 ---
 
