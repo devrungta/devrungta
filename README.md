@@ -61,7 +61,7 @@ I am a software developer with a strong focus on Flutter, Go (Gin), and React.js
 
 **Bachelor of Technology** | *Aug 2023 – Jun 2027*  
 Indian Institute of Technology (BHU), Varanasi  
-**CGPA:** 8.76  
+**CGPA:** 8.79  
 
 **CBSE Class XII** — 87.40%  
 **CBSE Class X** — 92.40%
